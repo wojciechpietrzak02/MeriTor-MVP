@@ -3,6 +3,11 @@
 
 ![Interfejs MeriTor](interfejs_meritor.png)
 *Powyżej: Działający interfejs wersji MVP (Streamlit + Llama-3.1).*
+---
+
+## 🎬 Pitch Video (YouTube)
+Obejrzyj 1-minutowy materiał wideo, w którym prezentujemy problem, rozwiązanie i działanie MeriTora w praktyce.
+👉 **[Obejrzyj Pitch Video MeriTor AI na YouTube](TUTAJ_WKLEJ_SWOJ_LINK_DO_FILMU)**
 
 ---
 
