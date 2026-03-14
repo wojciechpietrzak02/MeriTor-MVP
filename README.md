@@ -7,7 +7,7 @@
 
 ## 🎬 Pitch Video (YouTube)
 Obejrzyj 1-minutowy materiał wideo, w którym prezentujemy problem, rozwiązanie i działanie MeriTora w praktyce.
-👉 **[Obejrzyj Pitch Video MeriTor AI na YouTube](https://www.youtube.com/watch?v=EY-4Sd5euIc)**
+👉 **[Obejrzyj Pitch Video MeriTor AI na YouTube](https://youtu.be/_TjhQzdeqro)**
 
 ---
 
@@ -34,7 +34,7 @@ Wersja demonstracyjna opiera się na:
 * **Logika AI:** Integracja z szybkim modelem `Llama-3.1-8b-instant` (poprzez API Groq) z wykorzystaniem techniki dynamicznego wstrzykiwania wiedzy (*Context Stuffing*).
 
 ## 🚀 Jak uruchomić lokalnie?
-1. Sklonuj repozytorium: `git clone https://github.com/wojciechpietrzak02/MeriTor-EduTech-MVP.git`
+1. Sklonuj repozytorium: `git clone https://github.com/wojciechpietrzak02/MeriTor-MVP`
 2. Zainstaluj wymagane pakiety: `pip install -r requirements.txt`
 3. Uruchom aplikację: `streamlit run app.py`
 
