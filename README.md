@@ -7,7 +7,7 @@
 
 ## 🎬 Pitch Video (YouTube)
 Obejrzyj 1-minutowy materiał wideo, w którym prezentujemy problem, rozwiązanie i działanie MeriTora w praktyce.
-👉 **[Obejrzyj Pitch Video MeriTor AI na YouTube](TUTAJ_WKLEJ_SWOJ_LINK_DO_FILMU)**
+👉 **[Obejrzyj Pitch Video MeriTor AI na YouTube](https://www.youtube.com/watch?v=EY-4Sd5euIc)**
 
 ---
 
